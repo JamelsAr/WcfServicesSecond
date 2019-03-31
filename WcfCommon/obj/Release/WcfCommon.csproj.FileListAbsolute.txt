@@ -1,0 +1,5 @@
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\bin\Release\WcfCommon.dll
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\bin\Release\WcfCommon.pdb
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\obj\Release\WcfCommon.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\obj\Release\WcfCommon.dll
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\obj\Release\WcfCommon.pdb

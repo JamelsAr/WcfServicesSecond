@@ -1,0 +1,6 @@
+E:\Y2\WCF\WcfServicesSecond\WcfServiceLib\bin\Debug\WcfServiceLib.dll.config
+E:\Y2\WCF\WcfServicesSecond\WcfServiceLib\bin\Debug\WcfServiceLib.dll
+E:\Y2\WCF\WcfServicesSecond\WcfServiceLib\bin\Debug\WcfServiceLib.pdb
+E:\Y2\WCF\WcfServicesSecond\WcfServiceLib\obj\Debug\WcfServiceLib.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServicesSecond\WcfServiceLib\obj\Debug\WcfServiceLib.dll
+E:\Y2\WCF\WcfServicesSecond\WcfServiceLib\obj\Debug\WcfServiceLib.pdb

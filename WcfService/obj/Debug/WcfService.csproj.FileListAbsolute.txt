@@ -1,0 +1,16 @@
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfService.dll.config
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfService.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfService.pdb
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\EntityFramework.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\EntityFramework.SqlServer.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfCommon.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfModel.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfCommon.pdb
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\WcfModel.pdb
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\EntityFramework.xml
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\EntityFramework.SqlServer.xml
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\zh-Hans\EntityFramework.resources.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServicesSecond\WcfService\obj\Debug\WcfService.dll
+E:\Y2\WCF\WcfServicesSecond\WcfService\obj\Debug\WcfService.pdb

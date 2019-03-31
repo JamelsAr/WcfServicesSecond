@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.OData.EntityFrameworkProvider</id>
+    <version>1.0.0-beta2</version>
+    <title>WCF Data Services EntityFramework Provider</title>
+    <authors>Microsoft Corporation</authors>
+    <owners>Microsoft Corporation</owners>
+    <licenseUrl>http://go.microsoft.com/?linkid=9809688</licenseUrl>
+    <projectUrl>http://go.microsoft.com/fwlink/?LinkId=220868</projectUrl>
+    <iconUrl>http://static.tumblr.com/hgchgxz/9ualgdf98/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Server API for responding to OData queries and consuming/producing OData payloads based on entity framework version 6.0 or higher Supports OData v3. Targets .NET 4.0.</description>
+    <summary />
+    <releaseNotes>Bug fixes:
+•             Fix a bug that EntityFrameworkProvider would throw exception when using Code First approach with EF 6.0.0+</releaseNotes>
+    <tags>wcf data services odata odatalib edmlib spatial ado.net ef entity framework open protocol wcfds wcfdataservices dataservices provider</tags>
+    <dependencies>
+      <dependency id="EntityFramework" version="6.0.1" />
+      <dependency id="Microsoft.Data.Services" version="5.6.2" />
+    </dependencies>
+  </metadata>
+</package>

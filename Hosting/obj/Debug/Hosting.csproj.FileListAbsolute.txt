@@ -1,0 +1,15 @@
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\Hosting.exe.config
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\Hosting.exe
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\Hosting.pdb
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\WcfService.dll
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\WcfModel.dll
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\EntityFramework.dll
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\WcfCommon.dll
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\WcfService.pdb
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\WcfModel.pdb
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\EntityFramework.xml
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\WcfCommon.pdb
+E:\Y2\WCF\WcfServicesSecond\Hosting\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Y2\WCF\WcfServicesSecond\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServicesSecond\Hosting\obj\Debug\Hosting.exe
+E:\Y2\WCF\WcfServicesSecond\Hosting\obj\Debug\Hosting.pdb

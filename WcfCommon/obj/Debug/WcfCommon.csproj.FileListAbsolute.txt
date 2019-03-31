@@ -1,0 +1,4 @@
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\bin\Debug\WcfCommon.dll
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\bin\Debug\WcfCommon.pdb
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\obj\Debug\WcfCommon.dll
+E:\Y2\WCF\WcfServicesSecond\WcfCommon\obj\Debug\WcfCommon.pdb

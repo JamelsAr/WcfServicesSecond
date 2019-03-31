@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+@using WcfModel;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>WcfApi</title>
+</head>
+<body>
+    <div>
+        @{
+            if (ViewData["books"] as Books != null)
+            {
+                Books book =ViewData["books"] as Books;
+                <table>
+                    <tr>
+                        <td>@book.Author</td>
+                    </tr>
+                </table>
+            }
+        }
+    </div>
+</body>
+</html>
